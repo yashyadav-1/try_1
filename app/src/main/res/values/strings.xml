@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task_2</string>
+    <string name="todo">TODO</string>
+    <string name="search">Search...</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="photo_description">Photo Description</string>
+
+
+</resources>
